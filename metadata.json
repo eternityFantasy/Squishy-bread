@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Squishy Bread - Cute Stress-Relief Game",
+  "description": "A relaxing, tactile stress-relief game featuring an adorable soft-body strip bread to squeeze, stretch, twist, and bounce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
